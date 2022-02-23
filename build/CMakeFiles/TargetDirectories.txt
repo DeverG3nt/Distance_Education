@@ -1,0 +1,4 @@
+/home/coder/Documents/C++/Distance_Education/build/CMakeFiles/rebuild_cache.dir
+/home/coder/Documents/C++/Distance_Education/build/CMakeFiles/edit_cache.dir
+/home/coder/Documents/C++/Distance_Education/build/CMakeFiles/Distance_Education.dir
+/home/coder/Documents/C++/Distance_Education/build/CMakeFiles/Distance_Education_autogen.dir

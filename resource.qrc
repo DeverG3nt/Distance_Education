@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Subjects_Pic/Химия.jpg</file>
+        <file>Subjects_Pic/Физика.jpg</file>
+        <file>Subjects_Pic/Русский язык.jpg</file>
+        <file>Subjects_Pic/ОБЖ.jpg</file>
+        <file>Subjects_Pic/Литература.jpg</file>
+        <file>Subjects_Pic/История.jpg</file>
+        <file>Subjects_Pic/Информатика.jpg</file>
+        <file>Subjects_Pic/Геометрия.jpg</file>
+        <file>Subjects_Pic/Биология.jpg</file>
+        <file>Subjects_Pic/Астрономия.jpg</file>
+        <file>Subjects_Pic/Английский язык.jpg</file>
+        <file>Subjects_Pic/Алгебра.jpg</file>
+        <file>images/EYVK.png</file>
+    </qresource>
+    <qresource prefix="/StyleSheet">
+        <file>StyleSheet/style.css</file>
+    </qresource>
+    <qresource prefix="/Js">
+        <file>jquery.min.js</file>
+    </qresource>
+    <qresource prefix="/Teachers_photo">
+        <file>Teachers_Photo/Химия.jpg</file>
+        <file>Teachers_Photo/Физкультура.jpg</file>
+        <file>Teachers_Photo/Физика.jpg</file>
+        <file>Teachers_Photo/Русский язык.jpg</file>
+        <file>Teachers_Photo/ОБЖ.jpg</file>
+        <file>Teachers_Photo/Литература.jpg</file>
+        <file>Teachers_Photo/История.jpg</file>
+        <file>Teachers_Photo/Информатика.jpg</file>
+        <file>Teachers_Photo/Геометрия.jpg</file>
+        <file>Teachers_Photo/Биология.jpg</file>
+        <file>Teachers_Photo/Астономия.jpg</file>
+        <file>Teachers_Photo/Английский язык.jpg</file>
+        <file>Teachers_Photo/Алгебра.jpg</file>
+    </qresource>
+</RCC>
